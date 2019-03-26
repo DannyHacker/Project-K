@@ -10,11 +10,15 @@ Movie file has screen size and format.
 
 Services are:
   Error/Exception handling
-  Logging
+  Status + Logging (status could be the last logged item)
   Analytics
-  Status
-  Undo/Redo [or journalling of changes]
+  Undo/Redo -- or journalling of changes -- for practically infinity
   Framework for Unit and Integration testing
   
 
 Running, testing, debugging and editing are modes of any object -- so editing an object at run-time is OK.
+
+
+
+
+Danny Hacker, Copyright 2019, Soli Deo Gloria, Apache License 2.0
